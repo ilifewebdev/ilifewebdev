@@ -6,7 +6,7 @@ My name is shch and I'm a web developer engineer.
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a website - you can find my articles on my website at [daqianduanshuo.com](https://daqianduanshuo.com/) as well as on [Medium](https://medium.com/@bigdevweb) 
+Apart from coding, I also maintain a website - you can find my articles on my website at [daqianduanshuo.com](https://daqianduanshuo.com/) as well as on [Medium](https://medium.com/@bigwebdev) 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
