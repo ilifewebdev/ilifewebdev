@@ -2,11 +2,11 @@
 
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-My name is shch and I'm a web developer engineer. 
+My name is shch and I'm a web developer. 
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a website - you can find my articles on my website at [daqianduanshuo.com](https://daqianduanshuo.com/) as well as on [Medium](https://medium.com/@bigwebdev) 
+Apart from coding, I also maintain a website - you can find things about web on my website at [daqianduanshuo.com](https://daqianduanshuo.com/) as well as on [Medium](https://medium.com/@bigwebdev) 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
