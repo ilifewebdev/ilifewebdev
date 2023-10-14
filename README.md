@@ -6,7 +6,7 @@ My web name is daqianduanshuo and I'm a web developer.
 
 ## &#x270d; Blog & Writing
 
-I also maintain a website - you can find things about web on my website at ([https://www.3danli.com/](https://imchao.life/)) 
+I also maintain a website - you can find things about web on my website at [imchao.life](https://imchao.life/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
